@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# dir: numpy_lstm
+LSTM3-chain.png
+shakespear.txt
