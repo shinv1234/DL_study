@@ -12,6 +12,7 @@
 - Batch Normalization 설명 및 구현: https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/ 
 - Batch Normalization (ICML 2015): http://sanghyukchun.github.io/88/
 - Toward Best Practices of TensorFlow Code Patterns: https://wookayin.github.io/TensorFlowKR-2017-talk-bestpractice/ko/#1
+- 5 Ways to Get Started with Reinforcement Learning: https://www.kdnuggets.com/2017/09/5-ways-get-started-reinforcement-learning.html
 
 ### 3. Useful Github
 - deep_learning_tutorial: https://github.com/nmhkahn/deep_learning_tutorial
