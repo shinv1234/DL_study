@@ -1,4 +1,4 @@
-# Back Propagation using 2-layers network
+# Back Propagation using 2-Layers Network
 
 
 ### Forward Propagation
@@ -38,8 +38,10 @@ $$ E_n = \frac{1}{2}||y(x) - d||^2 = \frac{1}{2} \sum_i (y_j(x) - d_j)^2 = \frac
 
 $$ \frac{\partial E_n}{\partial u_{k}^{(3)}} = u_k^{(3)} - d_k $$
 
-$$ \frac{\partial u_{k}^{(3)}}{\partial u_{j}^{(2)}} = w_{kj}^{(3)}f^{\prime}(u_j^{(2)}) \quad (u_{k}^{(3)} = \sum_j  w_{kj}^{(3)}f(u_j^{(2)}))$$
+$$ \frac{\partial u_{k}^{(3)}}{\partial u_{j}^{(2)}} = w_{kj}^{(3)}f^{\prime}(u_j^{(2)}) \quad (  \because \; u_{k}^{(3)} = \sum_j  w_{kj}^{(3)}f(u_j^{(2)}))$$
 
 $$ \frac{\partial E_n}{\partial w_{ji}^{(2)}}  = f^{\prime}(u_j^{(2)})\sum_j  w_{kj}^{(3)}(u_k^{(3)} - d_k)z_i^{(1)}  $$
+
+
 
 
