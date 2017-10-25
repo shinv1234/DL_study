@@ -17,3 +17,20 @@
 ### 3. Useful Github
 - deep_learning_tutorial: https://github.com/nmhkahn/deep_learning_tutorial
 - reinforcement-learning-kr('파이썬과 케라스로 배우는 강화학습' 예제): https://github.com/rlcode/reinforcement-learning-kr
+
+
+### 4. Book
+- Deep Learning(Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press): http://www.deeplearningbook.org/
+
+
+### 5. PDF
+
+
+
+#### 6. Datasets
+- Question Answering Data
+	- The Stanford Question Answering Dataset: https://rajpurkar.github.io/SQuAD-explorer/
+	- Question-Answer Dataset: http://www.cs.cmu.edu/~ark/QA-data/
+	- Amazon question/answer data: http://jmcauley.ucsd.edu/data/amazon/qa/
+	- Question-Answer Dataset: https://www.kaggle.com/rtatman/questionanswer-dataset
+	- Jokes of the question-answer form from Reddit's r/jokes: https://www.kaggle.com/jiriroz/qa-jokes/data
