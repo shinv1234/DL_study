@@ -21,7 +21,7 @@
 
 ### 4. Book
 - Deep Learning(Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press): http://www.deeplearningbook.org/
-
+- reinforcement learning an introduction: http://incompleteideas.net/sutton/book/ebook/the-book.html
 
 ### 5. PDF
 
