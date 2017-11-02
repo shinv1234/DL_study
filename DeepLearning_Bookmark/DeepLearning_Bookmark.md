@@ -88,3 +88,8 @@
 	- Question-Answer Dataset: https://www.kaggle.com/rtatman/questionanswer-dataset
 
 	- Jokes of the question-answer form from Reddit's r/jokes: https://www.kaggle.com/jiriroz/qa-jokes/data
+
+
+#### 7. 
+- Paperspace: https://www.paperspace.com/
+	- A dead simple GPU cloud computing platform for individuals, startups, and enterprise.  
